@@ -12,7 +12,7 @@ namespace PoliteWrite.API.Controllers
     {
       
         private readonly ILogger<GenPoliteController> _logger;
-        private const string OPENAPI_TOKEN = "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";//输入自己的api-key
+        private const string OPENAPI_TOKEN = "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxx";//输入自己的api-key
         public GenPoliteController(ILogger<GenPoliteController> logger)
         {
             _logger = logger;
